@@ -1,2 +1,3 @@
 # Code-Mixed-Data-Sentiment-Analysis
-NLP Class Project on Code-Mixed data sentiment analysis
+NLP Project on Code-Mixed data sentiment analysis
+Author - Swayamprava Aich
